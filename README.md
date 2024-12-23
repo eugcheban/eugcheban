@@ -14,11 +14,14 @@ I'm a Junior Python Developer, self-taught through my pet projects, which have b
 
 
 ### 🌓 My Future Goals
+*   Go throw courses "Cisco: Python Essentials 1 / 2"
 *   Review my projects and implement SOLID principles.
 *   Learn about testing.
 *   Start studying Python's PEP 8 guidelines.
 *   Explore asynchronous programming.
 
+# Linux & Network Administration
+Currently, I'm taking a course from PortaOne, so I have experience in the Linux environment and understand the basic workings of the OSI Model and protocols.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/eugene-cheban-690a1b218/">
