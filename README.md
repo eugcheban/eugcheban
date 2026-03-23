@@ -2,101 +2,39 @@
 I’m a Junior Python Developer, self-taught through my pet projects, which have become my greatest hobby. I also have experience with JavaScript and Vue from a project for writing an editor for a music program. I’m looking for a challenging job that will test my skills and help me grow.
 
 ## 🛠 Technical Stack Experience
-*   Flask
-*   MySQL, PostgreSQL, MongoDB
-*   Aiogram, SQLAlchemy, Selenium, BeautifulSoup, Jinja
-*   GitHub
+* Flask, Django
+* Docker
+* MySQL, PostgreSQL, MongoDB
+* Aiogram, SQLAlchemy, Selenium, BeautifulSoup, Jinja
+* Git, Sphinx
+* HTML, CSS, JavaScript (Basics)
 
 ### ☂️ My Open-Source Projects
 *   [promoter](https://github.com/eugcheban/promoter) - A Telegram bot built with the Aiogram library, designed to sell third-party services via API with customizable markups. 
 *   [news_parser](https://github.com/eugcheban/news_parser) - An app for scraping Google News, parsing links, and posting them to Telegram.
+*   [OnlineStore](https://github.com/mist258/OnlineStore) - I took on the role of backend retailer for the coffee store at the [teamchallenge](https://teamchallenge.io/) project. My task included writing and designing the database, writing basic endpoints, processing logic, writing tests, and correcting bugs in the process of interacting with the team. In the end of project I also receive the [Certification](https://drive.google.com/file/d/10ZU77IklQHwOh65gt801BPtWcTQjeQQ6/view).
 
-### 🌓 My Future Goals
-*   Complete "Cisco: Python Essentials 1/2" courses.
-*   Review my projects and implement SOLID principles.
-*   Learn about testing and test-driven development.
-*   Start studying Python's PEP 8 guidelines.
-*   Explore asynchronous programming.
+### 🌓 My Current Goals [Estimated Progress %]
+* Complete my [social-media](https://github.com/eugcheban/social-media) pet project to apply and consolidate my knowledge of Django [30%]
+* Learn about testing and Test-Driven Development (TDD) [40%]
+* Review my projects and implement SOLID principles [20%]
+* Study Python's PEP 8 style guidelines [10%]
+* Complete the "Cisco: Python Essentials 1 & 2" courses [20%]
+* Complete "Vibe," a multi-tenant e-commerce platform combining features of Horoshop and TGShop [50%]
+* Configure a CI/CD pipeline using Jenkins [0%]
+* Explore asynchronous programming [0%]
 
 ---
 
 ## Linux & Network Administration
 
-I have completed a 6-month course in Linux and Network Administration, gaining hands-on experience in the following areas:
+I have completed a 6-month course in Linux and Network Administration from [PortaOne](https://education.portaone.com/free-courses/), gaining hands-on experience in the following areas:
 
-### **Operating System Fundamentals**
-* Linux OS architecture and components
-* Software installation and updates using tools like `yum` and `rpm`
-
-### **Command Line Skills**
-* Working with Bash shell
-* Essential Linux utilities: `cat`, `tail`, `grep`, `gzip`, `tar`
-* Process management with `ps`, `pstree`, `top`
-* Inter-process communication and system monitoring
-
-### **File Systems Management**
-* Partitioning and managing disks with `fdisk`
-* Filesystem tuning with `tune2fs`
-* Mounting file systems and managing access rights
-
-### **System Management & Automation**
-* Service management using `systemctl`
-* Task scheduling with `cron`
-* Terminal multiplexing with `screen`
-
-### **Scripting and Automation**
-* Bash scripting for automation tasks
-* Regular expressions for pattern matching
-* Text processing with `sed`, `awk`, and other command-line tools
-
----
-
-## Computer Networks
-
-### **Networking Protocols**
-* OSI, TCP/IP models
-* Protocols: ARP, IP, ICMP, TCP, UDP, FTP, SFTP, SSH, HTTP, DNS
-
-### **Network Tools**
-* Networking utilities: `ip`, `tcpdump`, `traceroute`, `nmap`, `netstat`, `ss`
-
-### **Network Simulation & Analysis**
-* Packet Tracer for network simulation
-* Wireshark for packet analysis
-
-### **Security**
-* Firewall management with `iptables`
-
----
-
-## Databases
-
-### **MySQL Database Administration**
-* MySQL installation and configuration
-* Writing SQL queries for data manipulation
-* Database backups and replication strategies
-
----
-
-## Web Servers
-
-### **Apache Web Server**
-* Configuring Apache server for hosting web applications
-* Performance optimization and tuning for better server response
-* Virtual hosting and SSL certificate management
-
-### **LAMP Stack Integration**
-* Integrating Linux, Apache, MySQL, and PHP to set up web applications
-
----
-
-## Technical Troubleshooting
-
-### **Diagnosis & Problem Solving**
-* Identifying and resolving server misconfigurations and performance bottlenecks
-
-### **Optimization**
-* Leveraging tools and strategies for improving system and network speed
+*  **Linux administration:** OS fundamentals, package management (yum, rpm), filesystem and disk management, permissions, services (systemctl), and task scheduling with cron
+*  **Command-line and automation:** Bash, grep, sed, awk, tar, gzip, regular expressions, process monitoring, and shell scripting
+*  **Networking:** OSI/TCP/IP, ARP, ICMP, TCP/UDP, DNS, SSH, HTTP, FTP/SFTP; troubleshooting with ip, tcpdump, traceroute, nmap, netstat, and ss
+*  **Security and analysis:** iptables, Wireshark, Packet Tracer, system diagnostics, and performance optimization
+*  **Databases and web servers:** MySQL administration, SQL, backups, replication, Apache configuration, SSL, virtual hosts, and LAMP stack deployment
 
 ---
 
