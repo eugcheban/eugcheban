@@ -20,7 +20,6 @@ I’m a Junior Python Developer, self-taught through my pet projects, which have
 * Review my projects and implement SOLID principles [20%]
 * Study Python's PEP 8 style guidelines [10%]
 * Complete the "Cisco: Python Essentials 1 & 2" courses [20%]
-* Complete "Vibe," a multi-tenant e-commerce platform combining features of Horoshop and TGShop [50%]
 * Configure a CI/CD pipeline using Jenkins [0%]
 * Explore asynchronous programming [0%]
 
